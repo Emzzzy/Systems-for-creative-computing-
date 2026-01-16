@@ -11,14 +11,10 @@
             "id": "359a58dd30a01620",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FLOSS SFCC/FLOSS and Variables - Week 4 and consolidation week.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "FLOSS and Variables - Week 4 and consolidation week"
+              "title": "New tab"
             }
           },
           {
@@ -34,9 +30,21 @@
               "icon": "lucide-file",
               "title": "SFCC - Notes - week 6"
             }
+          },
+          {
+            "id": "5035efb77d473e46",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,10 +200,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "845ea16c20b0869c",
+  "active": "5035efb77d473e46",
   "lastOpenFiles": [
-    "SFCC/SFCC notes week 2.md",
+    "week4/newfile.txt",
+    "week4/interactive.sh",
+    "week4",
+    "Week 3 FLOSS SFCC/testscript.sh",
     "SFCC - Notes - week 6.md",
+    "SFCC/SFCC notes week 2.md",
     "FLOSS SFCC/FLOSS and Variables - Week 4 and consolidation week.md",
     "2025-10-23.md",
     "generative arts/Generative arts - week 3.md",
